@@ -1,5 +1,5 @@
 {
     "talentPerms":[
-        { "permissions": [], "commands": [], "roles": [] }
+        { "permissions": [], "commands": ["acar"], "roles": [] }
      ]
 }
